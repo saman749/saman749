@@ -8,9 +8,13 @@ body {
   font-weight:400;
 }
 
-h1, h2, h3, h4, h5, h6, h8 {
+h1, h2, h3, h4, h5, h6,  {
   color:rgb(54, 54, 54);
   margin:0 0 20px;
+}
+
+h8 {
+  color:#b2b2b2;
 }
 
 h7 {
